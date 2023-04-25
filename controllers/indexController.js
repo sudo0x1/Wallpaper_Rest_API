@@ -7,7 +7,7 @@ exports.index = (req, res) => {
 
     return json(res, {
         maintainer: "yusuf0x",
-        source: "https://github.com/yusuf0x/Wallpaper_Rest_API",
+        source: "https://github.com/sudo0x1/Wallpaper_Rest_API",
         wallpapers: {
             endpoint: "/wallpapers/popular",
             endpoint : "/wallpapers?page=1",
